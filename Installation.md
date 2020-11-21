@@ -1,3 +1,7 @@
+# Vidoe link 
+https://drive.google.com/drive/u/1/my-drive?hl=en
+https://www.youtube.com/watch?v=_notRRlZgUo
+
 #1. install virtual box, virtualbox.org
 
 #2. download a ubuntu image
