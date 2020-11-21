@@ -1,6 +1,11 @@
 #1. install virtual box, virtualbox.org
 
 #2. download a ubuntu image
+ 
+ Link
+ https://www.linuxvmimages.com/
+image name : - Ubuntu 16.04 LTS
+
 #2.a -- sudo apt-get update 
 
 #3. install extension pack
